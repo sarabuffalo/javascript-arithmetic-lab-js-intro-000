@@ -22,8 +22,7 @@ function dec(a) {
   return a - 1
 }
 
-function makeInt(n) {
-"3"
+function makeInt(3) {
   return parseInt("3", 10)
 }
 
