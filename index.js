@@ -22,14 +22,8 @@ function dec(a) {
   return a - 1
 }
 
-function makeInt("3") {
-  return parseInt("3", 10)
+function makeInt(a) {
+  return parseInt(a, 10)
 }
 
-function makeInt(a) {
-  return parseInt("0 x 2328", 10)
-}
 
-function makeInt(a) {
-  parseInt("sldkjflksjf", 10)
-}
