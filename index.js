@@ -30,5 +30,5 @@ function makeInt(a) {
 }
 
 function makeInt(a) {
-  parseInt("sldkjflksjf")
+  parseInt("sldkjflksjf", 10)
 }
