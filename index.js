@@ -27,7 +27,7 @@ function makeInt(a) {
 }
 
 function makeInt(a) {
-  parseInt("0 * 2328", 10)
+  parseInt("0 x 2328", 10)
 }
 
 function makeInt(a) {
