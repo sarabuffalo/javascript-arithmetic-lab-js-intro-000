@@ -33,4 +33,3 @@ function makeInt(a) {
 function makeInt(a) {
     parseInt("sldkjflksjf", 10)
 }
-
