@@ -23,7 +23,7 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  return parseInt("1")
+  return parseInt("1", 10)
 }
 
 function makeInt(a) {
