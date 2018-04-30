@@ -24,6 +24,7 @@ function dec(a) {
 
 function makeInt(a) {
   parseInt("3")
+}
 
 function makeInt(a) {
   parseInt("0 * 2328", 10)
