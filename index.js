@@ -23,13 +23,14 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  parseInt("435")
+  parseInt("3")
 }
 
 function makeInt(a) {
-  parseInt("0x2328", 10)
+  parseInt("0 * 2328", 10)
 }
 
 function makeInt(a) {
     parseInt("sldkjflksjf", 10)
 }
+
